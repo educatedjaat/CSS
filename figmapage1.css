@@ -1,0 +1,72 @@
+.row{
+    height: 50px;
+    width: 100%;
+    display: inline;
+}
+li{
+    display: inline;
+}
+.half{
+    width: 32%;
+    margin-right: 100px;
+    margin-top: 200px;
+    border: red double 5px;
+}
+.ig{
+    margin-top: 150px;
+    width: 560px;
+    float: right;
+    height: 500px;
+}
+.hom{
+    color: #505F98;
+    size: 14px;
+    margin-left: 40px;
+}
+.hed{
+    color: blue; 
+    font-size: 30px; 
+    font-weight: 200; 
+    word-spacing: 5px ; 
+    font-family: fantasy;
+    margin-left: 400px;
+}
+.bok{
+    color: white; 
+    background-color: darkslateblue; 
+    padding-left: 40px; 
+    padding-right: 40px; 
+    padding-top: 6px; 
+    padding-bottom: 6px; 
+    border-radius: 5px;
+    margin-left: 400px;
+}
+.fot{
+    color: #091133; 
+    font-size: 45px;
+    overflow: auto;
+
+}
+.par{
+    color: #505F98; 
+    border: skyblue solid 3px;
+    overflow: auto;
+}
+.li1{
+    border-radius: 5px; background-color: darkblue; color: white; padding-left: 40px; padding-right: 40px; padding-top: 9px; padding-bottom: 9px;
+}
+.li2{
+    border: 3px darkblue solid; border-radius: 5px; color: darkblue; padding-left: 40px; padding-right: 40px; padding-top: 6px; padding-bottom: 6px;
+}
+.p2{
+    margin-top: 50px
+}
+.ig1{
+    margin-top: 200px;
+    width: 560px;
+    height: 500px;
+    float: right;
+}
+.half1{
+    margin-top: 200px;
+}
