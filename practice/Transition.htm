@@ -1,0 +1,23 @@
+<head>
+    <title>Transition</title>
+    <style>
+        .box{
+            width: 150px;
+            height: 150px;
+            text-align: center;
+            background-color: crimson;
+            transition: width 2s, height 2s, transform 2s;
+        }
+        .box:hover{
+            width: 350px;
+            height: 350px;
+            transform: rotateZ(360deg);
+        }
+        .text{
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box"><font class="text">2D</font></div>
+</body>

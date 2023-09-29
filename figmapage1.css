@@ -6,6 +6,12 @@
 li{
     display: inline;
 }
+.navbar{
+    height: 50px;
+    width: 100%;
+    margin-left: 100px;
+    margin-right: 100px;
+}
 .half{
     width: 32%;
     margin-right: 100px;
